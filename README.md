@@ -43,3 +43,10 @@ npm test
 The test suite covers the conservative eligibility rules: remote evidence is
 required, and senior, foreign-authorization, or onsite-only signals force a
 manual review.
+
+## Hackathon submission material
+
+Factual dashboard copy and a live-demo checklist are in
+[`docs/serpapi-submission.md`](docs/serpapi-submission.md). The project should
+only be submitted after a live SerpApi request and a publicly accessible demo
+video are verified.
