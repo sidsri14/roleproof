@@ -1,8 +1,15 @@
 # RoleProof - SerpApi India Hackathon Submission Pack
 
-Use this only after a live SerpApi query and public demo video have been
-verified. Do not claim that the project is submitted until the dashboard shows
-confirmation.
+The live SerpApi query and public demo video are verified. Do not claim that
+the project is submitted until the dashboard shows confirmation.
+
+Demo video after the repository is pushed:
+
+`https://raw.githubusercontent.com/sidsri14/roleproof/main/docs/roleproof-live-demo.mp4`
+
+Live verification on 2026-10-03: RoleProof issued a live Google Jobs request
+for `software engineer remote` in `India`, received ten results, and displayed
+candidate and manual-review decisions in the local dashboard.
 
 ## Project name
 

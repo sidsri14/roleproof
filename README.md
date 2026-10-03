@@ -44,6 +44,13 @@ The test suite covers the conservative eligibility rules: remote evidence is
 required, and senior, foreign-authorization, or onsite-only signals force a
 manual review.
 
+## Live demo
+
+[`docs/roleproof-live-demo.mp4`](docs/roleproof-live-demo.mp4) is a short
+capture of the local dashboard making a live SerpApi Google Jobs request. The
+request returned ten roles; RoleProof displays remote-evidence candidates first
+and retains source links for manual review.
+
 ## Hackathon submission material
 
 Factual dashboard copy and a live-demo checklist are in
