@@ -1,0 +1,25 @@
+{
+  "jobs_results": [
+    {
+      "title": "Software Engineer",
+      "company_name": "Example Remote Co",
+      "location": "Remote - India",
+      "description": "Build TypeScript services in a distributed team.",
+      "detected_extensions": { "posted_at": "2 days ago", "schedule_type": "Full-time", "work_from_home": true },
+      "share_link": "https://example.com/remote-role"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company_name": "Example Senior Co",
+      "location": "Remote",
+      "description": "Remote role requiring US work authorization.",
+      "detected_extensions": { "work_from_home": true }
+    },
+    {
+      "title": "Frontend Developer",
+      "company_name": "Example Office Co",
+      "location": "Bengaluru",
+      "description": "Work from our office five days a week."
+    }
+  ]
+}
